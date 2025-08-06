@@ -14,7 +14,7 @@ A gasless voting decentralized application built on Starknet that allows users t
 
 ### Prerequisites
 
-- Node.js (v16 or higher)
+- Node.js (v22 or higher)
 - A Starknet wallet (ArgentX, Braavos, etc.)
 - Git
 
